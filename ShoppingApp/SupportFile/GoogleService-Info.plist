@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Do you want to allow this app to access your Library</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Do you want to allow this app to access to your Camera</string>
+	<key>CLIENT_ID</key>
+	<string>307295289877-padbbe9pjgavmpv8r3ak7hug9n63oak5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.307295289877-padbbe9pjgavmpv8r3ak7hug9n63oak5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0_SlDs8B8QX3GjHDAlKOlnBHD2p2YgNQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>307295289877</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.annx.ShoppingApp</string>
+	<key>PROJECT_ID</key>
+	<string>shoppingapp-67716</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoppingapp-67716.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:307295289877:ios:88e6d3f28c566c1da9441c</string>
+</dict>
+</plist>
